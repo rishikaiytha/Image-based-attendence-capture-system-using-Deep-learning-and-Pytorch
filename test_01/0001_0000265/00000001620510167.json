@@ -1,0 +1,146 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/0000000.jpg",
+    "baseName": "0000000.jpg",
+    "format": "JPEG",
+    "formatDescription": "JPEG",
+    "mimeType": "image/jpeg",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 450,
+      "height": 339,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 72,
+      "y": 72
+    },
+    "printSize": {
+      "x": 6.25,
+      "y": 4.70833
+    },
+    "units": "PixelsPerInch",
+    "type": "TrueColor",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 457650,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 114.558,
+        "median": 63.6667,
+        "standardDeviation": 15544.8,
+        "kurtosis": -0.495782,
+        "skewness": 0.00744806,
+        "entropy": 0.968252
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 123.108,
+        "median": 90,
+        "standardDeviation": 15901.1,
+        "kurtosis": -0.439268,
+        "skewness": -0.0134825,
+        "entropy": 0.973261
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 119.462,
+        "median": 58,
+        "standardDeviation": 15709.2,
+        "kurtosis": -0.501557,
+        "skewness": -0.0995589,
+        "entropy": 0.973101
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 101.105,
+        "median": 43,
+        "standardDeviation": 15024.2,
+        "kurtosis": -0.520255,
+        "skewness": 0.0877979,
+        "entropy": 0.958394
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 450,
+      "height": 339,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "JPEG",
+    "quality": 85,
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2021-05-08T21:42:44+00:00",
+      "date:modify": "2021-05-08T21:42:44+00:00",
+      "jpeg:colorspace": "2",
+      "jpeg:sampling-factor": "2x2,1x1,1x1",
+      "signature": "d7d1149fb0e1efc0a4ad8895de23f351429eb79df91ab1015278623595784bb5"
+    },
+    "profiles": {
+      "8bim": {
+        "length": 48
+      },
+      "icc": {
+        "length": 3144
+      },
+      "iptc": {
+        "Caption[2,120]": ["OLYMPUS DIGITAL CAMERA         "],
+        "length": 36
+      }
+    },
+    "tainted": false,
+    "filesize": "45716B",
+    "numberPixels": "152550",
+    "pixelsPerSecond": "15.422MB",
+    "userTime": "0.000u",
+    "elapsedTime": "0:01.009",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
