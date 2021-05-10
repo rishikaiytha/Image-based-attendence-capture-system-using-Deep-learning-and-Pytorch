@@ -7,5 +7,6 @@ I have two part submission here
    
    INSTRUCTION:
    1. Read the file "Part-01 Interview" for details regarding part 1  of the  submission
-   2. For Part-02 of the Submission, Open the file names "Part-02 Interview"
+   2. Image_classifier.ipynb is the ython notebook of my code 
+   3. For Part-02 of the Submission, Open the file names "Part-02 Interview"
 
