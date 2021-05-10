@@ -7,5 +7,5 @@ I have two part submission here
    
    INSTRUCTION:
    1. Read the file "Part-01 Interview" for details regarding part 1  of the  submission
-   2. For Part-02 of the assignment, Open the file names "Part-02 Interview"
+   2. For Part-02 of the Submission, Open the file names "Part-02 Interview"
 
