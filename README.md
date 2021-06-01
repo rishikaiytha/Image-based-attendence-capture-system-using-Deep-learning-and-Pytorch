@@ -6,7 +6,7 @@ I have two part submission here
    Part 02: A write up about how recurrent neural network such as LSTM and GRU based models can be used in Autonomous             Vehicles
    
    INSTRUCTION:
-   1. Read the file "Part-01" for details regarding part 1  of the  submission
+   1. Read the file "Part-01" for details regarding the code
    2. Image_classifier.ipynb is the python notebook of my code 
-   3. For Part-02 of the Submission, Open the file names "Part-02 Interview"
+   
 
